@@ -13,9 +13,10 @@ Disble the commands in line 6~10 and open the command in line 2~4.
 I didn't include last part of macbuntu(mac fonts)
 
 #USAGE
-> git clone https://github.com/Lee-W/macbuntu-13.10-installation.git  
-> chmod +x macbiuntu.sh  
-> sudo ./macbuntu.sh  
-
+```
+> git clone https://github.com/Lee-W/macbuntu-13.10-installation.git
+> chmod +x macbiuntu.sh
+> sudo ./macbuntu.sh
+```
 #AUTHORS
 [Lee-W](https://github.com/Lee-W/)
