@@ -1,15 +1,13 @@
-#macbuntu 13.10  installation
+#macbuntu 14.04  installation
 
-#DESCRIPTION
+#Macbuntu 14.04 or Install Mac OS X theme on Ubuntu 14.04 
 ###macbuntu.sh
-This shell script is based on the site below to make ubuntu 13.10 looks like mac osx
-<http://www.noobslab.com/2013/10/mac-os-x-mbuntu-1310-pack-is-ready.html>
+This shell script is based on the instructions on the below site to make ubuntu 14.04 looks like mac os x
+<http://smashingweb.info/mac-os-x-theme-for-ubuntu-14-04-macbuntu-transformation-pack/>
 
 It allow you to install all the packets macbuntu needed with a single command. Note that you still have to do the manually part.
 
-Instead of using docky, I use cairo-dock which might cause some shutdown/restart menu issues. But despite that, I think it much better than docky.
-If you still want to use docky. You have to change the script in the first ten lines.
-Disble the commands in line 6~10 and open the command in line 2~4.
+This script will install the Docky Dock, Ubuntu 14.04 Mac Theme, Mac Icons, Mac Fonts etc. This script will install all of the things and save lot of time. After installation open Unity Tweak tool and change the themes to Mac.
 
 I didn't include last part of macbuntu(mac fonts)
 
@@ -36,3 +34,4 @@ All you need to do is to change font into LiHeiPro. \(You can use "tweak tool"\)
 
 #AUTHORS
 [Lee-W](https://github.com/Lee-W/)
+[Ranjith Siji](https://github.com/ranjithsiji/)
